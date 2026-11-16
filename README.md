@@ -2,6 +2,7 @@ I run AI operations for founder-led businesses with 5 to 20 people and no operat
 
 These are tools I built and use in my own business. Each one has a write-up with real output at [davidjforer.com/built](https://davidjforer.com/built).
 
+- ai-marketing-team: eight AI employees that do the recurring marketing work in a founder-led business, each one drafting and staging work for a person to approve.
 - prospect-researcher: researches a sales prospect before the first email or call, and flags the ones a list vendor got wrong.
 - social-pain: a local app that finds people describing their problems on Reddit, Hacker News and Twitter, in their own words.
 - site-seo-check: a weekly site monitor that compares Search Console, index status and AI Overview data week over week.
